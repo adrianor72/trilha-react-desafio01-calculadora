@@ -1,9 +1,9 @@
 
-import Input from './components/Input';
 import Button from './components/Button';
+import Input from './components/Input';
 
-import { Container, Content, Row } from './styles';
 import { useState } from 'react';
+import { Container, Content, Row } from './styles';
 
 
 const App = () => {
